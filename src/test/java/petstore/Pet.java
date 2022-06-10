@@ -8,7 +8,7 @@ import java.nio.file.Paths;
 
 import static io.restassured.RestAssured.given;
 
-public class pet {
+public class Pet {
     String uri = "https://petstore.swagger.io/v2/pet";
 
     public String lerJSON(String caminhoJSON) throws IOException {
