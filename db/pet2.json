@@ -1,0 +1,18 @@
+{
+  "id": 19971230,
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "Augustus",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 2022,
+      "name": "sta"
+    }
+  ],
+  "status": "sold"
+}
